@@ -19,7 +19,7 @@
   <img alt="Projeto DevLinks" src="web/public/PreviewGithub.png" width="100%">
 </p>
 
-### 📃 Projeto
+## 📃 Projeto
 
 Durante o evento, construímos uma aplicação web interativa, desenvolvida para demonstrar o poder do JavaScript em criar interfaces dinâmicas e escaláveis. Este projeto integra as seguintes funcionalidades:
 
