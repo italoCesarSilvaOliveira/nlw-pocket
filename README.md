@@ -26,6 +26,8 @@ Durante o evento, construímos uma aplicação web interativa, desenvolvida para
 - Manipulação eficiente de dados no front-end.
 - Integração com uma API externa para exibição de informações dinâmicas.
 - Uso de boas práticas em estruturação de código e organização de pastas.
+
+O programa é um Gerenciador de Metas, que permite cadastrar e acompanhar suas metas para execução em um período de 1 a 7 dias da semana. Você pode registrar suas metas e, ao completá-las, os dados são automaticamente salvos no banco de dados. Além disso, o sistema exibe de forma clara todas as metas pendentes e as já realizadas, facilitando o acompanhamento do seu progresso.
   
 ## 🧑‍💻 Tecnologias
 
